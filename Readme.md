@@ -1,4 +1,5 @@
-# Python Introduction
+# Python Introduction for Librarians
 ## Authors
-Georg
+Georg Mayr-Duffner
+
 
